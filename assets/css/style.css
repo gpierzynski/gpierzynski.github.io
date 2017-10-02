@@ -28,6 +28,14 @@ p{
 
 #about-p {
   font-size: 18px;
+  text-align: left;
+  padding-left: 350px;
+  padding-right: 325px;
+}
+
+#projects-p {
+  font-size: 18px;
+  text-align: center;
 }
 
 hr {
@@ -55,10 +63,18 @@ table {
 td {
   width: 200px;
   text-align: center;
+  font-family: 'Helvetica';
+  font-size: 12px;
+}
+
+
+
+#bottom-td {
+  width: 200px;
 }
 
 img {
-  border-radius: 50px;;
+  border-radius: 50px;
 }
 
 body {
